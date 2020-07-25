@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "STACKOVERFLOW"
-          feed_list: "https://stackoverflow.com/feeds/user/497433"
+          feed_list: "https://stackoverflow.com/feeds/user/3842526"
