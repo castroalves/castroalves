@@ -14,4 +14,5 @@
 
 ## 💬 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Problems on generating Connection Key for integration app with Quick Books Online Edition](https://stackoverflow.com/questions/4099017/problems-on-generating-connection-key-for-integration-app-with-quick-books-onlin)
 <!-- STACKOVERFLOW:END -->
