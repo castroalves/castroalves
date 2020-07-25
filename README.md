@@ -10,6 +10,11 @@
 
 ## ✍🏼 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [História do Coworking no Rio de Janeiro](https://medium.com/@castroalves/hist%C3%B3ria-do-coworking-no-rio-de-janeiro-83531f2158ec?source=rss-6bc8c8d65704------2)
+- [Hello Gatsby](https://castroalves.dev/hello-gatsby)
+- [How to check WordPress user role in an Angular application](https://castroalves.dev/how-to-check-word-press-user-role-in-an-angular-application)
+- [How to backup only original images of your WordPress site using WP-CLI](https://castroalves.dev/how-to-backup-only-original-images-of-your-word-press-site-using-wp-cli)
+- [It's one of the best explanations I've ever read about ML.](https://medium.com/@castroalves/its-one-of-the-best-explanations-i-ve-ever-read-about-ml-f9417c47a0e0?source=rss-6bc8c8d65704------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 StackOverflow Activity
