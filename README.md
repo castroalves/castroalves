@@ -14,5 +14,9 @@
 
 ## 💬 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Problems on generating Connection Key for integration app with Quick Books Online Edition](https://stackoverflow.com/questions/4099017/problems-on-generating-connection-key-for-integration-app-with-quick-books-onlin)
+- [Comment by Cadu De Castro Alves on dyld: Library not loaded ... Reason: Image not found](https://stackoverflow.com/questions/17703510/dyld-library-not-loaded-reason-image-not-found/50261326#50261326)
+- [Comment by Cadu De Castro Alves on Why isn't my onclick event listener on my radio buttons not working?](https://stackoverflow.com/questions/61639603/why-isnt-my-onclick-event-listener-on-my-radio-buttons-not-working/61639887#61639887)
+- [Answer by Cadu De Castro Alves for How to implement a WordPress Action Hook](https://stackoverflow.com/questions/61638829/how-to-implement-a-wordpress-action-hook/61640060#61640060)
+- [Comment by Cadu De Castro Alves on How to implement a WordPress Action Hook](https://stackoverflow.com/questions/61638829/how-to-implement-a-wordpress-action-hook)
+- [Answer by Cadu De Castro Alves for Why isn't my onclick event listener on my radio buttons not working?](https://stackoverflow.com/questions/61639603/why-isnt-my-onclick-event-listener-on-my-radio-buttons-not-working/61639887#61639887)
 <!-- STACKOVERFLOW:END -->
