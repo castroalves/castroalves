@@ -2,8 +2,8 @@
 
 ## I'm Cadu de Castro Alves
 
-- 🚀 Product Manager - Integrations at [GraphCMS](https://graphcms.com)
-- 🕊️ Product Manager at [VOAA](https://voaa.me)
+- 🚀  Product Manager - Integrations at [GraphCMS](https://graphcms.com)
+- 🕊️  Product Manager at [VOAA](https://voaa.me)
 - 📫 How to reach me: [Twitter](https://twitter.com/castroalves) | [Dev.to](https://dev.to/castroalves) | [LinkedIn](https://linkedin.com/in/cadudecastroalves) | [Stack Overflow](https://stackoverflow.com/users/3842526/cadu-de-castro-alves)
 - 😄 Pronouns: He/Him
 
